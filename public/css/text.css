@@ -1,0 +1,43 @@
+.text-white{
+	color: #ffffff;
+}
+
+.text-salmon{
+	color: #C7394F;
+}
+
+.text-black{
+	color: #000000;
+}
+
+.text-shadow-black{
+	/*color: white;*/
+    text-shadow: 2px 2px 4px #000000;
+}
+
+.text-shadow-white{
+	/*color: white;*/
+    text-shadow: 2px 2px 4px #ffffff;
+}
+ 
+ 
+ .text-white-md{
+	color:#ffffff;
+	font-size:120%
+}
+
+
+.text-white-lg{
+	color:#ffffff;
+	font-size:145%
+}
+
+
+.text-md{
+	font-size:175%
+}
+
+.text-lg{
+	font-size:200%
+}
+

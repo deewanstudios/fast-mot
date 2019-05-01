@@ -1,0 +1,72 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.border-red{
+	border-width: 4px;
+	border-style: solid;
+	border-color: red;
+}
+
+
+.border-blue{
+	border-width: 4px;
+	border-style: solid;
+	border-color: blue;
+}
+
+
+.border-green{
+	border-width: 4px;
+	border-style: solid;
+	border-color: green;
+}
+
+.bg-white
+
+{
+	background-color : rgba(255,255,255,.5)
+
+}
+
+.bg-gray
+
+{
+	background-color : rgba(0,0,0,.5)
+
+}
+
+.color1
+
+{
+	background : rgba(0,202,198,.05);
+
+}
+
+.color2
+
+{
+	background : rgba(86,190,223,.5);
+
+}
+
+.color3
+
+{
+	background : #6bc141;
+
+}
+
+.color4
+
+{
+	background : #c6d130;
+
+}
+
+.bg-black{
+	background-color: rgba(0,0,0,1)
+}
+
+
+
